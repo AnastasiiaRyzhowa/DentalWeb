@@ -1,2 +1,2 @@
-# Dentist-Website
-Complete Responsive Dentist Website Design Using HTML - CSS - JavaScript - BOOTSTRAP - PHP - MySQL
+# DentistWeb
+При разработки данного сайта были использованы HTML, CSS, JS, PHP, MySQL
